@@ -1,6 +1,6 @@
-# y
+# crm-web
 
-> y
+> 使用element-ui组件已经webpack搭建的多页面crm管理系统
 
 ## Build Setup
 
